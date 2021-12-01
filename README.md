@@ -1,2 +1,2 @@
 # Mission-to-Mars
-Web Scrapping Module
+Web scraping information on Mars to keep up to date with the latest news and information on the Red Planet.
